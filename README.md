@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @PramitPaudel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PramitPaudel/PramitPaudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @PramitPaudel
+- 👀 I’m interested in learning about computers and technology.
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m looking to collaborate on small personal projects.
+- 📫 How to reach me: [your email or social handle here].
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I enjoy learning new programming languages and experimenting with technology!
